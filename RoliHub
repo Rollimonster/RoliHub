@@ -1,0 +1,10 @@
+-- doomspire
+if game.PlaceId == 1215581239 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Rollimonster/Roblox-Doomspire-Gui/main/Roblox-Doomspire-Gui"),true))()
+	Main:Destroy()
+end
+--arsenal
+if game.PlaceId == 286090429 then
+	loadstring(game:HttpGet(("https://raw.githubusercontent.com/Rollimonster/arsenal/main/arsenal?token=AVSUPWL6T7XVZ2UA5SMYZBLBIGU66"),true))()
+	Main:Destroy()
+end
